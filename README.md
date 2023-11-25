@@ -1,2 +1,2 @@
-# bastianprez.github.com
-Mi pagina web
+# Pagina de Sebastian Perez
+Mi pagina web 
